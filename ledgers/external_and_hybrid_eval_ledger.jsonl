@@ -1,0 +1,5 @@
+{"date":"2026-10-25T17:00","solver":"V133 (external, user release)","set":"ARC-AGI-2 public evaluation 120","solved":0,"wrong":0,"abstained":119,"errors":1,"note":"aggregate only"}
+{"date":"2026-10-25T20:10","solver":"hybrid OPT202+TRM, constraint screening A/B","set":"ARC-AGI-2 public evaluation 120","results":{"64aug_old":13,"64aug_screen":13,"256aug_old":14,"256aug_screen":14,"luca_alone":2,"truth_in_neural_top10":{"64aug":18,"256aug":17}},"note":"aggregate only"}
+{"date": "2026-10-29", "solver": "V159 (external, user release)", "set": "ARC-AGI-2 public evaluation 120", "solved": 1, "wrong": 0, "abstained": 118, "errors": 1, "note": "aggregate only"}
+{"date": "2026-10-29", "solver": "V160 (external) vs OPT202 overlap", "set": "ARC-AGI-2 public evaluation 120", "v160_solved": 1, "v160_wrong": 0, "opt202_solved": 2, "both": 0, "union": 3, "note": "aggregate only"}
+{"date":"2026-10-30","solver":"LUCA OPT202 + V160 combined (kaggle_symbolic.py)","set":"ARC-AGI-2 public evaluation 120","solved":3,"note":"aggregate only"}

@@ -1,0 +1,6 @@
+{"date": "2026-10-11T17:43:34", "milestone": "M1 baseline: original OPT169", "solver_fingerprint": "426a4e6e905e625465731f31ac2548a5dc00317d0f549d149df3578ab393307d", "solved": 120, "total": 120}
+{"date": "2026-10-11T18:01:35", "milestone": "M1: OPT174 (DSL ports 1-4, Phase 2, loop fix)", "solver_fingerprint": "a25d8c8ec869345341ee11e7a824668af1558b4d6001aea97e848cac5b789a35", "solved": 120, "total": 120}
+{"date": "2026-10-11T20:44:07", "milestone": "M2: OPT175 (all task ids removed from source)", "solver_fingerprint": "5a291b78cd92bbc7db574f040de246310ac75f5656d4a4b20d698498e1f31343", "solved": 120, "total": 120}
+{"date": "2026-10-12T00:37:38", "milestone": "M3: OPT176 (evaluation-only rules removed)", "solver_fingerprint": "cda0575a367cb41da8d4f22add5b414f925e4c43e7aea637fc98fe5ef05f9336", "solved": 7, "total": 120}
+{"date": "2026-10-19T13:12:45", "milestone": "E5: OPT199 one language + one search (engine rules as plain ops)", "solver_fingerprint": "45348ec43f9c343931129e3d970337f4f78f6e06cb03e9e83753d8d7919317be", "solved": 2, "total": 120}
+{"date": "2026-10-20T22:28:42", "milestone": "E6: OPT200 composition (per-region programs, object-rule learner, goal-directed composition)", "solver_fingerprint": "3eac857499d5c8105c2f4e80a3cf7a43e7b479e09eb5c7bddd37639aa85aa2e0", "solved": 2, "total": 120}
