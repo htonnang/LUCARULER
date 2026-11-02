@@ -60,3 +60,7 @@ fresh RE-ARC instances) were checked only at milestones, in aggregate, each chec
 
 Our code: MIT No Attribution (MIT-0), see `LICENSE`. Third-party code and the TRM checkpoint keep
 their own licences.
+
+
+   ## Note on v160
+   The V160 family library is provided as `v160.zip`. Unzip it at the repository root to create the `v160/` folder used by `hybrid/kaggle_symbolic.py`.
